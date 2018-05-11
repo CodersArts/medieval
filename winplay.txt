@@ -1,9 +1,0 @@
-Hello Erin Rock beats Scissors!
-You have vanquished me!
-
-
-
-Games Played:	1
-Games Won: 	1
-Games Lost: 	0
-Games Tied: 	0
